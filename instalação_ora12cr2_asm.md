@@ -208,7 +208,7 @@ Normalmente essa mídia é obtida em formato *.zip*, descarregue ela no *$GRID_H
 $> ./gridSetup.sh
 ```
 
-As telas estão no arquivo **Instalação e Configuração ASM - parte gráfica**.
+As telas estão no arquivo **Instalação e Configuração Grid - parte gráfica.docx**.
 
 REFERÊNCIAS:
 
