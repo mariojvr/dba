@@ -208,7 +208,19 @@ Normalmente essa mídia é obtida em formato *.zip*, descarregue ela no *$GRID_H
 $> ./gridSetup.sh
 ```
 
-As telas estão no arquivo **Instalação e Configuração Grid - parte gráfica.docx**.
+
+Será exibido um software gráfico, os passos de instalação estão no arquivo **[ASM] Instalação e Configuração Grid - parte gráfica.docx**.
+
+#### Instalar Database:
+O próximo e último passo para finalizarmos é a instalação do banco de dados e a sua configuração para utilizar o ASM que acabamos de configurar.
+Para isso vamos descompactar a midia com o usuário oracle e então dentro da basta database executar:
+
+```
+$> ./runInstaller.sh
+```
+
+Será exibido um software gráfico, os passos de instalação estão no arquivo **[ASM] Instalação e Configuração Database - parte gráfica.docx**.
+
 
 REFERÊNCIAS:
 
