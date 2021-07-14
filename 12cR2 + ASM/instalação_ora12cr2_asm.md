@@ -209,7 +209,7 @@ $> ./gridSetup.sh
 ```
 
 
-Será exibido um software gráfico, os passos de instalação estão no arquivo **[ASM] Instalação e Configuração Grid - parte gráfica.docx**.
+Será exibido um software gráfico, os passos de instalação estão no caminho **./anexos/[ASM] Instalação e Configuração Grid - parte gráfica.docx**.
 
 #### Instalar Database:
 O próximo e último passo para finalizarmos é a instalação do banco de dados e a sua configuração para utilizar o ASM que acabamos de configurar.
@@ -219,10 +219,10 @@ Para isso vamos descompactar a midia com o usuário oracle e então dentro da ba
 $> ./runInstaller.sh
 ```
 
-Será exibido um software gráfico, os passos de instalação estão no arquivo **[ASM] Instalação e Configuração Database - parte gráfica.docx**.
+Será exibido um software gráfico, os passos de instalação estão no caminho **./anexos/[ASM] Instalação e Configuração Database - parte gráfica.docx**.
 
 
-REFERÊNCIAS:
+#### REFERÊNCIAS:
 
 - https://www.youtube.com/watch?v=VFRj2QAdOAg
 - http://www.nazmulhuda.info/ora-00845-memory_target-not-supported-on-this-system-during-starting-instance
